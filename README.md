@@ -2,6 +2,7 @@
 > Project to use only **[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white&link=https://www.java.com/)](https://www.java.com/)** APIs to consume an API, pulling the ranking of the top 250 movies from [IMDB](https://imdb-api.com/api?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+Java+1%2F7%3A+Consumir+uma+API+de+filmes&utm_campaign=%5BAlura+%237Days+Of+Code%5D%28Java%29+Dia+1%2F7%3A+Consumir+uma+API+de+filmes) and returning a JSON.
 
 * DAY 1
+
   On the first day, you will make your Java code consume the IMDB API, fetch the top 250 movies from their list and print the corresponding JSON in the console.
 
 * DAY 2
