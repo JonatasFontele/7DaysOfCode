@@ -1,4 +1,4 @@
-package com.daysofcode;
+package com.sevendaysofcode;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
